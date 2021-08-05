@@ -1,2 +1,2 @@
-# Portfoli
+# Portfolio
 My portfolio resume
